@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @King2H
 - 👀 I’m interested in exploring the science behind coding and searching new skills 
 - 🌱 I’m currently learning Python programming, Bootstrap, Django & UI/UX design
-- 💞️ I’m looking to collaborate on Front End development
+- 💞️ I’m looking to collaborate on Front End development, Django based backend development, UI/UX design
 - 📫 How to reach me ...
 
 <!---
